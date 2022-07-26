@@ -1,0 +1,54 @@
+![[Pasted image 20220726201728.png]]
+## SWBF2 Markings Var.2
+Used for meshes using the shaders `SS_CharactersPreset_CloneTrooperMarkings_T41` and `SS_CharactersPreset_CloneTrooperMarkings_02`
+
+---
+## Inputs
+
+- **Base Colour**
+	- The base colour of the material.
+- **Armour Colour**
+	- Sets the colour of whatever is masked on the blue channel of AOSL.
+- **Marking Mask 1**
+	- Mask for marking layer 1.
+- **Marking Col 1**
+	- Colour of marking layer 1.
+- **Marking Mask 2**
+	- Mask for marking layer 2. Added on top of 1.
+- **Marking Col 2**
+	- Colour of marking layer 2.
+- **Grunge Mask**
+	- Texture input for a greyscale tiled weathering texture to add scratches to the markings. Set to 1 if no input.
+- **Smoothness**
+	- The smoothness of the material.
+- **Smoothness Gamma Correction**
+	- Sets the gamma value of the smoothness value. Primarily used to correct non-colour smoothness inputs to SRGB. 0 for off, 1 for on.
+- **Invert Smoothness**
+	- Set to 1 to use the blue channel of NM as a mask for a matte grey material(Var.1 Behavior) or 0 to use the blue channel as metalness. Both apply on top of markings and armour colour.
+- **Reflectance**
+	- How reflective the material is.
+- **Reflectance Gamma Correction**
+	- Sets the gamma value of the Reflectance value. 0 for off, 1 for on.
+ - **AOSL**
+	- AOSL texture input.
+- **Colour AO Strength**
+	- Sets the strength of the AO on the colour.
+- **Reflection AO Strength**
+	- Sets the strength of the AO on the reflectance.
+- **NM**
+	- NM texture input.
+- **Slice Samples 1,2,3**
+	- Inputs for slice values. Only the green channel is used here for easy use with AOSL textures.
+- **Detail 1,2,3**
+	- Texture inputs for detail map tiling textures. Leave at 0.5,0.5,0 if no input.
+- **Detail Normal Intensity 1,2,3**
+	- Sets the strength of the normals added to the base normals by detail textures.
+- **Detail Smoothness Intensity 1,2,3**
+	- Sets the strength of the smoothness added to the base smoothness by detail textures.
+
+## Outputs 
+
+- **Shader**
+	- Shader output.
+- **Mask 1, 2, 3**
+	- View filtered slice masks that use the slice sample to preview where detail maps will go.
