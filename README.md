@@ -2,7 +2,9 @@
 ## Frostblend
 
 FrostBlend is a collection of nodegroups for setting up Frostbite game materials in Blender.
+
 To download, click the code button and download zip. keep the assets folder next to the blend at all times.
+
 See the included [Obsidian](https://obsidian.md/) manual for more information.
 
 To view the manual, open the manual folder as a vault.
