@@ -1,4 +1,4 @@
-![[Pasted image 20220726200825.png]]
+![[Pasted image 20220728222800.png]]
 ## Frostbite UBER Slice Mapping
 Generic FB shader with support for a slice mask and detail maps.
 

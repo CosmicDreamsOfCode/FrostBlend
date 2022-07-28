@@ -1,4 +1,4 @@
-![[Pasted image 20220726200926.png]]
+![[Pasted image 20220728222911.png]]
 ## SWBF2 Kylo
 Used for meshes using the shader `Shaders/Presets/SS_CharactersPreset_WalrusCreature`
 

@@ -1,4 +1,4 @@
-![[Pasted image 20220726201728.png]]
+![[Pasted image 20220728224143.png]]
 ## SWBF2 Markings Var.2
 Used for meshes using the shaders `SS_CharactersPreset_CloneTrooperMarkings_T41` and `SS_CharactersPreset_CloneTrooperMarkings_02`
 
@@ -9,16 +9,16 @@ Used for meshes using the shaders `SS_CharactersPreset_CloneTrooperMarkings_T41`
 	- The base colour of the material.
 - **Armour Colour**
 	- Sets the colour of whatever is masked on the blue channel of AOSL.
-- **Marking Mask 1**
-	- Mask for marking layer 1.
-- **Marking Col 1**
-	- Colour of marking layer 1.
-- **Marking Mask 2**
-	- Mask for marking layer 2. Added on top of 1.
-- **Marking Col 2**
-	- Colour of marking layer 2.
+- **Marking Colour 1,2,3,4**
+	- Colours of markings.
+- **Marking Mask 1,2,3,4**
+	- Mask inputs for markings.
 - **Grunge Mask**
 	- Texture input for a greyscale tiled weathering texture to add scratches to the markings. Set to 1 if no input.
+- **Grunge Brightness**
+	- Sets the brightness of the grunge mask.
+- **Grunge Contrast**
+	- Sets the contrast of the grunge mask.
 - **Smoothness**
 	- The smoothness of the material.
 - **Smoothness Gamma Correction**

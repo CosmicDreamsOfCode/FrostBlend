@@ -1,4 +1,4 @@
-![[Pasted image 20220726200857.png]]
+![[Pasted image 20220728222942.png]]
 ## SWBF2 Markings Var.1
 Used for meshes using the shader `SS_CharactersPreset_CloneTrooperMarkings`
 
@@ -7,14 +7,10 @@ Used for meshes using the shader `SS_CharactersPreset_CloneTrooperMarkings`
 
 - **Base Colour**
 	- The base colour of the material.
-- **Marking Mask 1**
-	- Mask for marking layer 1.
-- **Marking Col 1**
-	- Colour of marking layer 1.
-- **Marking Mask 2**
-	- Mask for marking layer 2. Added on top of 1.
-- **Marking Col 2**
-	- Colour of marking layer 2.
+- **Marking Colour 1,2**
+	- Colours of markings.
+- **Marking Mask 1,2**
+	- Mask inputs for markings.
 - **Smoothness**
 	- The smoothness of the material.
 - **Smoothness Gamma Correction**

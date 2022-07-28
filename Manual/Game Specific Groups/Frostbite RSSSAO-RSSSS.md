@@ -1,4 +1,4 @@
-![[Pasted image 20220726200731.png]]
+![[Pasted image 20220728223613.png]]
 ## Frostbite RSSSAO/RSSSS
 Primarily used for skin materials in DICE games but also Star Wars Squadrons.
 

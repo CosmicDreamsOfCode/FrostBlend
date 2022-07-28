@@ -1,4 +1,4 @@
-![[Pasted image 20220726202923.png]]
+![[Pasted image 20220728222849.png]]
 ## SWBF2 Droid
 Used for meshes using the shaders `Shaders/Presets/SS_CharactersPreset_RobotMarkings` and `Shaders/Presets/SS_CharactersPreset_RobotMarkings_Droideka`
 
@@ -13,24 +13,14 @@ Used for meshes using the shaders `Shaders/Presets/SS_CharactersPreset_RobotMark
 	- Controls how bright emmision is.
 - **Emmision Mask
 	- Masks where Emmission will be.
- - **Emmision Mode
+- **Emmision Mode
 	- 0 for Add, 1 for Mix.
 - **Overlay Colour**
 	- What colour should be overlayed onto the base colour.
-- **Overlay Toggle**
-	- Simple toggle for the above value. 0 for off, 1 for on.
-- **Pattern Colour 1**
-	- Colour of pattern layer 1.
-- **Pattern Metal 1**
-	- Metalness of pattern layer 1.
-- **Pattern Mask 1**
-	- Mask for pattern layer 1.
-- **Pattern Colour 2**
-	- Colour of pattern layer 2.
-- **Pattern Metal 2**
-	- Metalness of pattern layer 2.
-- **Pattern Mask 2**
-	- Mask for pattern layer 2. Added on top of 1.
+- **Marking Colour 1,2,3,4**
+	- Colours of markings.
+- **Marking Mask 1,2,3,4**
+	- Mask inputs for markings.
 - **Grunge Mask**
 	- Texture input for a greyscale tiled weathering texture to add scratches to the patterns. Set to 1 if no input.
 - **Grunge Brightness**

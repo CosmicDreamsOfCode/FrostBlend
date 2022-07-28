@@ -1,4 +1,4 @@
-![[Pasted image 20220726203900.png]]
+![[Pasted image 20220728222726.png]]
 
 ## Frostbite PBR UBER
 Generic FB shader.
@@ -34,5 +34,7 @@ Generic FB shader.
 	- Sets the strength of the AO on the reflectance.
 - **Normal X, Y**
     - Sets the X and Y values of the materials normals. If no input is avilable leave at 0.5 on both or shading will break.
- - **Metalness**
+- **Metalness**
     - Makes the material more or less metallic in appearance.
+- **Reflectance Metalness Addition**
+	- Set to 1 to add Metalness on top of the Reflectance.(Mainly for internal use, don't reccomend touching)
