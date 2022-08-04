@@ -1,18 +1,20 @@
-![[Pasted image 20220804221920.png]]
+![[Pasted image 20220804220953.png]]
 ## SWBF2 Markings Var.1
-Used for meshes using the shader `SS_CharactersPreset_CloneTrooperMarkings`
+Used for meshes using the shader `SS_CharactersPreset_CloneTrooperMarkings_T41` 
 
 ---
 ## Inputs
 
 - **Base Colour**
 	- The base colour of the material.
-- **Multiply Colour**
-	- What colour should be multiplied onto the base colour.
-- **Marking Colour 1,2**
-	- Colours of markings.
-- **Marking Mask 1,2**
-	- Mask inputs for markings.
+- **Camo Texture**
+	- Tiled camo texture input.
+- **Visor Colour**
+	- Colour of the visor.(if enabled)
+- **Marking Mask**
+	- Mask input for markings.
+- **Visor Colour Toggle**
+	- Toggle for the visor colour.
 - **Smoothness**
 	- The smoothness of the material.
 - **Smoothness Gamma Correction**

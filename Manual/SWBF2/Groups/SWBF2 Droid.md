@@ -1,4 +1,4 @@
-![[Pasted image 20220728222849.png]]
+![[Pasted image 20220804221731.png]]
 ## SWBF2 Droid
 Used for meshes using the shaders `Shaders/Presets/SS_CharactersPreset_RobotMarkings` and `Shaders/Presets/SS_CharactersPreset_RobotMarkings_Droideka`
 
@@ -15,8 +15,8 @@ Used for meshes using the shaders `Shaders/Presets/SS_CharactersPreset_RobotMark
 	- Masks where Emmission will be.
 - **Emmision Mode
 	- 0 for Add, 1 for Mix.
-- **Overlay Colour**
-	- What colour should be overlayed onto the base colour.
+- **Multiply Colour**
+	- What colour should be multiplied onto the base colour.
 - **Marking Colour 1,2,3,4**
 	- Colours of markings.
 - **Marking Mask 1,2,3,4**

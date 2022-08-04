@@ -1,6 +1,6 @@
 ![[Pasted image 20220728224143.png]]
 ## SWBF2 Markings Var.2
-Used for meshes using the shaders `SS_CharactersPreset_CloneTrooperMarkings_T41` and `SS_CharactersPreset_CloneTrooperMarkings_02`
+Used for meshes using the shader `SS_CharactersPreset_CloneTrooperMarkings_02`
 
 ---
 ## Inputs
