@@ -1,4 +1,4 @@
-![[Pasted image 20220728222745.png]]
+![[Pasted image 20220807194537.png]]
 ## Frostbite Skin
 Generic FB skin shader.
 
@@ -28,7 +28,9 @@ Generic FB skin shader.
 - **Metalness**
     - Makes the material more or less metallic in appearance.
 - **Reflectance Metalness Addition**
-	- Set to 1 to add Metalness on top of the Reflectance.(Mainly for internal use, don't reccomend touching)
+	- Set to 1 to add Metalness on top of the Reflectance.
+- **Metalness Gamma Correction**
+	- Sets the gamma value of the Metalness value. 0 for off, 1 for on.
 - **SSS Scale**
 	- Subsurface Scattering texture imput.
 - **SSS Radius**

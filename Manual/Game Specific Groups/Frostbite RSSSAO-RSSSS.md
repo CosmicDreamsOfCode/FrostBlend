@@ -1,4 +1,4 @@
-![[Pasted image 20220728223613.png]]
+![[Pasted image 20220807194704.png]]
 ## Frostbite RSSSAO/RSSSS
 Primarily used for skin materials in DICE games but also Star Wars Squadrons.
 
@@ -27,5 +27,9 @@ Primarily used for skin materials in DICE games but also Star Wars Squadrons.
 	- Sets the gamma value of the Reflectance value. 0 for off, 1 for on.
  - **Metalness**
     - Makes the material more or less metallic in appearance.
+- **Reflectance Metalness Addition**
+	- Set to 1 to add Metalness on top of the Reflectance.(Mainly for internal use, don't reccomend touching)
+- **Metalness Gamma Correction**
+	- Sets the gamma value of the Metalness value. 0 for off, 1 for on.
 - **SSS Radius**
 	- How far rays of light will travel through the object. This works as an RGB value ie. 1,0,0 will allow only red light to pass through far through the object.

@@ -1,4 +1,4 @@
-![[Pasted image 20220728222800.png]]
+![[Pasted image 20220807193913.png]]
 ## Frostbite UBER Slice Mapping
 Generic FB shader with support for a slice mask and detail maps.
 
@@ -33,8 +33,12 @@ Generic FB shader with support for a slice mask and detail maps.
 	- Sets the strength of the AO on the reflectance.
 - **Normal X, Y**
     - Sets the X and Y values of the materials normals. If no input is avilable leave at 0.5 on both or shading will break.
- - **Metalness**
+- **Metalness**
     - Makes the material more or less metallic in appearance.
+- **Reflectance Metal Addition**
+	- Set to 1 to add Metalness on top of the Reflectance.
+- **Metalness Gamma Correction**
+	- Sets the gamma value of the Metalness value. 0 for off, 1 for on.
 - **Slice**
 	- Input for a slice texture.
 - **Slice Samples 1,2,3**

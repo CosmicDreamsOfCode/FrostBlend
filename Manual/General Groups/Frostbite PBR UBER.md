@@ -1,4 +1,4 @@
-![[Pasted image 20220728222726.png]]
+![[Pasted image 20220807194551.png]]
 
 ## Frostbite PBR UBER
 Generic FB shader.
@@ -38,3 +38,5 @@ Generic FB shader.
     - Makes the material more or less metallic in appearance.
 - **Reflectance Metalness Addition**
 	- Set to 1 to add Metalness on top of the Reflectance.(Mainly for internal use, don't reccomend touching)
+- **Metalness Gamma Correction**
+	- Sets the gamma value of the Metalness value. 0 for off, 1 for on.

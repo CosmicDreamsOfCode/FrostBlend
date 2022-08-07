@@ -1,4 +1,4 @@
-![[Pasted image 20220726204621.png]]
+![[Pasted image 20220807194649.png]]
 ## Frostbite Hair
 Standard hair shader.
 
@@ -21,6 +21,10 @@ Standard hair shader.
 	- Sets the X and Y values of the materials normals. If no input is avilable leave at 0.5 on both or shading will break.
 - **Metalness**
 	- Makes the material more or less metallic in appearance.
+- **Reflectance Metalness Addition**
+	- Set to 1 to add Metalness on top of the Reflectance.(Mainly for internal use, don't reccomend touching)
+- **Metalness Gamma Correction**
+	- Sets the gamma value of the Metalness value. 0 for off, 1 for on.
 - **Normal Strength**
 	- The strength of the normals.
 - **Hair Strength**
