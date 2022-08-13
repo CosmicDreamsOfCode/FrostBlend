@@ -11,6 +11,8 @@ _All with a game name at the start are game specific._
 [[Frostbite Hair]]
 [[Frostbite RSSSAO-RSSSS]]
 [[DICE Eyes]]
+[[Detail Scale]]
+[[Atlas]]
 [[IrisScale]]
 [[PupilScale]]
 [[SWBF2 Droid]]
