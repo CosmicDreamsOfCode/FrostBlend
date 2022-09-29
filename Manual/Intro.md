@@ -21,6 +21,7 @@ _All with a game name at the start are game specific._
 [[SWBF2 Markings Var.1]]
 [[SWBF2 Markings Var.2]]
 [[Vehicle Normal Fix]]
+[[PVZ GW2 Character]]
 
 ---
 ### Game Specific Stuff
@@ -44,6 +45,9 @@ _All with a game name at the start are game specific._
 
 - Battlefield V
 	- WIP
+
+- Plants Vs. Zombies: Garden Warfare 2
+	- [[PVZ GW2 Character]]
 
 ---
 ### Using the groups
