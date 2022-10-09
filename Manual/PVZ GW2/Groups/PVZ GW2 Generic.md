@@ -1,12 +1,14 @@
-![[Pasted image 20220929192244.png]]
-## PVZ GW2 Character
-Generic character shader for GW2.
+![[Pasted image 20221009032420.png]]
+## PVZ GW2 Generic
+Generic shader for GW2.
 
 ---
 ## Inputs
 
 - **Base Colour**
 	- The base colour of the material.
+- **Alpha**
+	- Alpha transparency.
  - **Tint Colour**
 	- Tints the base colour.
 - **ETT**
