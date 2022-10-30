@@ -13,6 +13,7 @@ _All with a game name at the start are game specific._
 [[DICE Eyes]]
 [[Detail Scale]]
 [[Atlas]]
+[[SubMaterialIndex]]
 [[IrisScale]]
 [[PupilScale]]
 [[SWBF2 Droid]]
@@ -23,6 +24,7 @@ _All with a game name at the start are game specific._
 [[Vehicle Normal Fix]]
 [[PVZ GW2 Generic]]
 [[PVZ GW2 Tattoo Add]]
+[[BFV Air Vehicle]]
 
 ---
 ### Game Specific Stuff
@@ -45,7 +47,7 @@ _All with a game name at the start are game specific._
 	 - WIP
 
 - Battlefield V
-	- WIP
+	- [[BFV Air Vehicle]]
 
 - Plants Vs. Zombies: Garden Warfare 2
 	- [[PVZ GW2 Generic]]
